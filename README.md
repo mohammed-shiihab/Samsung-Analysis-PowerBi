@@ -52,7 +52,7 @@ This project features a corporate-grade **Supply Chain & Logistics Analytics Das
 
 ## Dashboard Preview
 
-![Samsung Supply Chain Overview](samsung_dashboard.png)
+![Samsung Supply Chain Overview](Samsung_dashboard.png)
 
 ---
 
